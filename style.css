@@ -31,7 +31,8 @@ width: 18rem;
 
 height: 25rem;
 
-border-radius: 10px; background-color: #7a839a;
+border-radius: 10px; 
+background-color: #e1b2c6;
 
 box-shadow: 4px 4px 5px #012661;
 
@@ -48,7 +49,7 @@ padding: 1rem;
 
 .container-player > h1{ 
     font-size: 2em;
-color: #b9cfe9;
+color: #bd0036;
 }
 
 .container album {
@@ -80,7 +81,7 @@ width: 100%;
 height: 2rem;
 margin-top: 1rem;}
 
-player controls {
+.player_controls {
 width: 100%;
 margin-top: 1rem;
 text-align: center;
@@ -89,7 +90,7 @@ cursor: pointer;
 }
 
 
-player_controls :hover {
+.player_controls >i:hover {
 
-color:#176417;
+color:#95006d;
 }
