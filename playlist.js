@@ -1,33 +1,38 @@
 
  export const playList = [
     {
-      title: 'Song 1',
-      artist: 'Artist 1',
+      title: 'sofia ',
+      artist: 'alvaro soler',
       img: 'ruta de la imagen de la canción',
-      song: 'ruta de la cancion'
+      song: 'musica/Alvaro Soler - Sofia(MP3_128K)_1.mp3'
     },
     {
-      title: 'Song 2',
-      artist: 'Artist 2',
+      title: 'debo saber ',
+      artist: 'barbie',
       img: 'ruta de la imagen de la canción',
-      song: 'ruta de la cancion'
+      song: 'musica/Debo Saber _ Letra _ Barbie™ como _La Princesa de la Isla_(M4A_128K).m4a'
     },
     {
-      title: 'Song 3',
-      artist: 'Artist 3',
+      title: 'ojos asi  ',
+      artist: 'shakira',
       img: 'ruta de la imagen de la canción',
-      song: 'ruta de la cancion'
+      song: 'musica/Shakira - Ojos Así (Official HD Video)(MP3_160K).mp3'
     },
     {
-      title: 'Song 4',
-      artist: 'Artist 4',
+      title: 'chk chk ',
+      artist: ' stray kids',
       img: 'ruta de la imagen de la canción',
-      song: 'ruta de la cancion'
+      song: 'musica/Stray Kids _Chk Chk Boom_ Performance Video(MP3_160K).mp3'
     },
     {
-      title: 'Song 5',
-      artist: 'Artist 5',
+      title: 'Dace ',
+      artist: ' lyrics',
       img: 'ruta de la imagen de la canción',
-      song: 'ruta de la cancion'
-    },
+      song: 'musica/Tones and I - Dance Monkey (Lyrics)(MP3_128K)_1.mp3'
+    },  {
+        title: 'virtual diva ',
+        artist: ' don omar',
+        img: 'ruta de la imagen de la canción',
+        song: 'musica/virtual diva - don omar _ letra(MP3_128K).mp3'
+      },
   ]
